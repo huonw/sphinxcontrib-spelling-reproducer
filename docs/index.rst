@@ -6,6 +6,9 @@
 Welcome to sphinx-spelling-reproducer's documentation!
 ======================================================
 
+.. automodule:: foo
+   :members:
+
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
